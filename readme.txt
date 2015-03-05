@@ -1,5 +1,5 @@
 === On Hover Image Sharer by Profitquery ===
-Contributors: schemotechnik i_vlasov frenly_girl
+Contributors: schemotechnik, i_vlasov, frenly_girl
 Donate link: http://profitquery.com
 Tags: conversion tool, conversion tools, e-mail, ecommerce tools, email, facebook, google, pinterest,  share this, social marketing, subscription button, twitter, share, sharing, site optimization, social plugins, twitter buttons, facebook buttons, pinterest button, google+ button, share buttons, on hover share, on hover sharing, sharing image, marketing bar, contact form, mailchimp integration, social login, follow buttons, sharing sidebar, floating popup, call me back, contact verifier
 Requires at least: 2.9
