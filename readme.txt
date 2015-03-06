@@ -51,7 +51,7 @@ Yes, it's free.
 
 = Do I need to create an account? =
 
-Yes. You will need to sign-up in Profitquery by a few click use social login.
+No. To get API Key you need click on the 'Get API Key' link in wordpress admin area, but we will pleasure if you rate this plugin and and leave a comment.
 
 = Is JavaScript required? =
 
