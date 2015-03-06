@@ -51,7 +51,7 @@ Yes, it's free.
 
 = Do I need to create an account? =
 
-No. To get API Key you need click on the 'Get API Key' link in wordpress admin area, but we will pleasure if you rate this plugin and and leave a comment.
+No. To get API Key you need click on the 'Get API Key' link in wordpress admin area, but we will pleasure if you rate this plugin and leave a comment.
 
 = Is JavaScript required? =
 
